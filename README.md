@@ -2,8 +2,8 @@
 
 ### Prerequisites
 
-Node.js - https://nodejs.org/en/ <br>
-Aftewards:
+Install Node.js - https://nodejs.org/en/ <br>
+On your local environment run:
 ``` brew install node ```
 ``` brew install watchman  ```
 
