@@ -2,11 +2,10 @@
 
 ### Prerequisites
 
-Node.js - https://nodejs.org/en/
+Node.js - https://nodejs.org/en/ <br>
 Aftewards:
-``` brew install node
-brew install watchman 
-```
+``` brew install node ```
+``` brew install watchman  ```
 
 More info at & complete guide for xCode + Android SDKs can be found here - https://reactnative.dev/docs/environment-setup - !!! Make sure you toggle the React Native CLI Quickstart tab !!!!
 
