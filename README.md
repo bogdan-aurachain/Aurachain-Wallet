@@ -5,13 +5,13 @@
 Install Node.js - https://nodejs.org/en/ <br>
 On your local environment run:
 ``` brew install node ``` <br>
-``` brew install watchman  ```
+``` brew install watchman  ``` <br>
 
 More info at & complete guide for xCode + Android SDKs can be found here - https://reactnative.dev/docs/environment-setup - !!! Make sure you toggle the React Native CLI Quickstart tab !!!!
 
 ### Instalation
 
-In project root:
+In project root run: <br>
 ``` npm i ```
 
 ### Running in development mode
